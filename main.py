@@ -1,2 +1,4 @@
-def main():
-	return 0
+import like
+
+def main(like):
+	return like.like(like)

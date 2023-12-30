@@ -1,4 +1,4 @@
-import like
+import cart
 
-def main(like):
-	return like.like(like)
+def main(cart):
+	return cart.like(cart)

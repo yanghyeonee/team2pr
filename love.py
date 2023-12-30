@@ -1,7 +1,7 @@
 def love():
-    if like == True:
+    if love == True:
         print("I hate you too")
         print(f"goodbye") 
     else:
-        like()
-		return 3
+        love()	
+    return 3
